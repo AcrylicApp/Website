@@ -65,7 +65,7 @@ cover_overlay_transparency                : 0
 
 device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#303030"
+body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
@@ -73,7 +73,7 @@ app_title_color                           : "#000000"
 app_price_color                           : "#000000"
 app_description_color                     : "#000000"
 
-feature_title_color                       : "#ffffff"
+feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#1d63ea"
