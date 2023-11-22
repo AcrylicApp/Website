@@ -11,8 +11,8 @@ presskit_download_link                    : https://acrylic.tools/presskit      
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Acrylic – Wallpaper Engine                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Acrylic – Wallpaper Engine                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Simple beauty.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Michael Burkhardt                            
 your_link                                 : https://michaelb.nyc                     
-your_city                                 : NYC                                
+your_city                                 : NYC ❤️                               
 email_address                             : hi@michaelb.nyc
 facebook_username                         :                                           
 instagram_username                        : 
@@ -89,7 +89,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#303030"
 
 link_color                                : "#1d63ea"
 
