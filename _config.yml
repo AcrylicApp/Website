@@ -36,7 +36,6 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
   - title                                 : Mesh Wallpaper Generator
     description                           : Easily create brand new & colorful wallpapers with the click of a button.
     fontawesome_icon_name                 : paint-roller
